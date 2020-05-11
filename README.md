@@ -3,4 +3,4 @@
 Spring framework, Maven, Tomcat, MySQL.
 
 
-User может быть Nataly, т.к. использую компьютер жены. :-)
+User в коде может быть Nataly, т.к. использую компьютер жены. :-)
