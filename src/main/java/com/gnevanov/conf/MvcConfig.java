@@ -1,6 +1,6 @@
-package com.spring_test.conf;
+package com.gnevanov.conf;
 
-import com.spring_test.Sample;
+import com.gnevanov.Sample;
 import org.apache.tomcat.jdbc.pool.DataSource;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -13,7 +13,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "com.spring_test")
+@ComponentScan(basePackages = "com.gnevanov")
 public class MvcConfig {
     @Bean
     public InternalResourceViewResolver viewResolver() {

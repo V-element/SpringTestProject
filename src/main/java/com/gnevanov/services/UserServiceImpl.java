@@ -1,7 +1,7 @@
-package com.spring_test.services;
+package com.gnevanov.services;
 
-import com.spring_test.dao.UserDAO;
-import com.spring_test.models.User;
+import com.gnevanov.dao.UserDAO;
+import com.gnevanov.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

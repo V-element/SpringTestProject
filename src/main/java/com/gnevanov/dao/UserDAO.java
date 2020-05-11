@@ -1,6 +1,6 @@
-package com.spring_test.dao;
+package com.gnevanov.dao;
 
-import com.spring_test.models.User;
+import com.gnevanov.models.User;
 
 import java.util.List;
 

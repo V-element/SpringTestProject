@@ -1,4 +1,4 @@
-package com.spring_test;
+package com.gnevanov;
 
 public class Sample {
     private static int constructorCounter = 0;

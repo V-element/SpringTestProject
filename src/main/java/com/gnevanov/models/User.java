@@ -1,4 +1,4 @@
-package com.spring_test.models;
+package com.gnevanov.models;
 
 public class User {
     private int id;

@@ -1,6 +1,6 @@
-package com.spring_test.dao;
+package com.gnevanov.dao;
 
-import com.spring_test.models.User;
+import com.gnevanov.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
